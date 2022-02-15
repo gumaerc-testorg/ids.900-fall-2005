@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains the information on the final paper of the course
   given by Aleksandra Mozdzanowska on the topic - What is the relationship between
   technology and social values.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/29458f23b9a8e9ef67481470730c741a_final_am.pdf
+file: /media/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/29458f23b9a8e9ef67481470730c741a_final_am.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: final_am.pdf
 uid: 29458f23-b9a8-e9ef-6748-1470730c741a

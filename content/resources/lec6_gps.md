@@ -4,8 +4,13 @@ description: Thia resource contains information about GPS and users of GPS, how 
   works, GPS constellation, GPS frequency uses, limitations and corrections, history,
   inspiration, NAVSTAR predecessors, GPS development, civilian use, consequences,
   cross-cutting themes and future of GPS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/88d42e16762ad7a143800eb926e1d9d6_lec6_gps.pdf
+file: /media/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/88d42e16762ad7a143800eb926e1d9d6_lec6_gps.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec6_gps.pdf
 uid: 88d42e16-762a-d7a1-4380-0eb926e1d9d6

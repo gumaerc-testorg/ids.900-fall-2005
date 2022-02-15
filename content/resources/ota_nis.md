@@ -6,8 +6,13 @@ description: This resource contains information about the background and purpose
   of computer systems, government management of data processing, society's dependence
   on information systems, constitutional rights, regulatory and other issues, trends
   in computer technology and industry structure.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/ebf6067109b1761ab6b1e147fcfb2cc9_ota_nis.pdf
+file: /media/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/ebf6067109b1761ab6b1e147fcfb2cc9_ota_nis.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: ota_nis.pdf
 uid: ebf60671-09b1-761a-b6b1-e147fcfb2cc9

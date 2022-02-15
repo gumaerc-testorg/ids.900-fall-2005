@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on Columbia accident investigation
   by Dietrich Falkenthal.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c96e1f866d0e6a81df8922acadbfc486_columbia_df.pdf
+file: /media/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c96e1f866d0e6a81df8922acadbfc486_columbia_df.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: columbia_df.pdf
 uid: c96e1f86-6d0e-6a81-df89-22acadbfc486
