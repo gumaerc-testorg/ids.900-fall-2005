@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e98b3633-1c45-6664-6184-552789b87a52
 resourcetype: Document
 title: lec5_assess.pdf
 uid: c7a3b607-a9e1-f1bf-2f5f-bc0fdac2325b

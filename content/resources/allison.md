@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71206073-f4c7-32b8-9343-b780baf56b1f
 resourcetype: Document
 title: allison.pdf
 uid: d9dc77d3-97c6-8edd-9303-41f67276cd20

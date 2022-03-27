@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71206073-f4c7-32b8-9343-b780baf56b1f
 resourcetype: Document
 title: prometheus_kd.pdf
 uid: 5527457b-ab61-5426-ad21-a0b021c017f5

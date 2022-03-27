@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e98b3633-1c45-6664-6184-552789b87a52
 resourcetype: Document
 title: lec5_forecast.pdf
 uid: e766647c-9666-11d9-83b0-8f15808709ad

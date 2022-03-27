@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71206073-f4c7-32b8-9343-b780baf56b1f
 resourcetype: Document
 title: columbia_cn.pdf
 uid: 7ac5eb98-bff8-c1f1-deb1-2b920a5ec3a3

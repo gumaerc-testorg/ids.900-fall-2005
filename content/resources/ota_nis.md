@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 resourcetype: Document
 title: ota_nis.pdf
 uid: ebf60671-09b1-761a-b6b1-e147fcfb2cc9

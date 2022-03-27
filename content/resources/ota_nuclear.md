@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 resourcetype: Document
 title: ota_nuclear.pdf
 uid: fd4f1ea0-f326-5c10-4fd9-a9a42dfa0a26

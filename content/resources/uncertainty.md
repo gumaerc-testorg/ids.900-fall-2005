@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 resourcetype: Document
 title: uncertainty.pdf
 uid: 00c7c1cf-7b85-60dc-d105-51551c348acc

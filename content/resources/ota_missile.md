@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 resourcetype: Document
 title: ota_missile.pdf
 uid: 2b5b1713-4415-20cf-3b16-7f6b39f6b6a3
