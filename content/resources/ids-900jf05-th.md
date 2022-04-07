@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Diagram of global network of satellites around the earth.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: ids-900jf05-th.jpg
 uid: 2445bbe1-9e63-0fe2-ac13-71f792137ab2
