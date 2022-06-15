@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: e98b3633-1c45-6664-6184-552789b87a52
 ---
@@ -68,7 +68,7 @@ On the Power and the Limits of Analysis
 DH, LM
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 68d0a27d-821a-7d40-ee33-a3091a452a23 "PDF" >}})
+({{% resource_link 68d0a27d-821a-7d40-ee33-a3091a452a23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ On Handling Messy Complexity
 DH
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 50d4d563-30e3-943d-a83a-34c61c690a16 "PDF" >}})
+({{% resource_link 50d4d563-30e3-943d-a83a-34c61c690a16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,8 +134,8 @@ Methods for Forecasting; Predictions for the Future; How have they Actually Work
 JB with Prof. Chris Magee
 {{< tdclose >}}
 {{< tdopen >}}
-Technology Assessment ({{< resource_link c7a3b607-a9e1-f1bf-2f5f-bc0fdac2325b "PDF" >}})  
-Technological Forecasting ({{< resource_link e766647c-9666-11d9-83b0-8f15808709ad "PDF" >}}) (Courtesy of Prof. Chris Magee. Used with permission.)
+Technology Assessment ({{% resource_link c7a3b607-a9e1-f1bf-2f5f-bc0fdac2325b "PDF" %}})  
+Technological Forecasting ({{% resource_link e766647c-9666-11d9-83b0-8f15808709ad "PDF" %}}) (Courtesy of Prof. Chris Magee. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +157,7 @@ Expert: DH
 Presenters: AH, AM, CN
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 88d42e16-762a-d7a1-4380-0eb926e1d9d6 "PDF" >}})
+({{% resource_link 88d42e16-762a-d7a1-4380-0eb926e1d9d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ Expert: David Mindell
 Presenters: KD, SL, AM
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a9bd3dfc-04b0-5455-f4bc-f4129afc5053 "PDF" >}})
+({{% resource_link a9bd3dfc-04b0-5455-f4bc-f4129afc5053 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +237,7 @@ Expert: Dava Newman
 Presenters: AH, SH
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e32c0083-d2a1-edea-5ee4-8ece63ec6bae "PDF - 2.2 MB" >}})
+({{% resource_link e32c0083-d2a1-edea-5ee4-8ece63ec6bae "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

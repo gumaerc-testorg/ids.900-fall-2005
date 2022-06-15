@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The calender section gives the information about the course schedule
+  as well as the instructors for the respective topics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 0a88adfb-5248-e140-5a59-60b040b3faaf
 ---

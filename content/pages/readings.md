@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: The readings section contains the various readings for the lecture topics
+  prescribed for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 ---
@@ -42,7 +43,7 @@ The Engineer's View
 On the Power and the Limits of Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-McManus, Hugh, and Daniel Hastings. "A Framework for Understanding Uncertainty and its Mitigation and Exploitation in Complex Systems." ({{< resource_link 00c7c1cf-7b85-60dc-d105-51551c348acc "PDF" >}}) (Courtesy of Hugh McManus and Daniel Hastings. Used with permission.)  
+McManus, Hugh, and Daniel Hastings. "A Framework for Understanding Uncertainty and its Mitigation and Exploitation in Complex Systems." ({{% resource_link 00c7c1cf-7b85-60dc-d105-51551c348acc "PDF" %}}) (Courtesy of Hugh McManus and Daniel Hastings. Used with permission.)  
   
 Simon, Herbert. "Rationality and Administrative Behavior," and "The Psychology of Administration." Chapters 4, and 5 in _Administrative Behavior_. 4th ed. New York, NY: Free Press, 1997. ISBN: 9780684835822.
 {{< tdclose >}}

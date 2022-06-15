@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The syllabus section contains the in-class expectations, homework and
+  team project expectations, grading, books, suggestive menu of crosscutting themes
+  and structured case presentations based on the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: f10e9234-432c-168a-d3de-60286b804304
 ---
