@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec1.pdf
 uid: 68d0a27d-821a-7d40-ee33-a3091a452a23
 ---
 This resource contains information about rationality and its practical limits in organizational choice, knowledge and intuition in decision making and the Powers and Limits of Policy Analysis
-

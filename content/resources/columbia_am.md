@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: columbia_am.pdf
 uid: a5ff2026-2d1b-c8ef-1ec2-90bf8b513f1e
 ---
 This resource contains the responses to Columbia accident investigation by Aleksandra Mozdzanowska.
-

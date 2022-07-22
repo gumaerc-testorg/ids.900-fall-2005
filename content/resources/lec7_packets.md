@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec7_packets.pdf
 uid: ee7500e7-3eb5-9956-6cc2-8e217f65fe41
 ---
 This resource contains information about packet switching chronology, packet switching vs. citcuit switching, TCP/IP, nuclear war survivability, consequnces, overlooked consequences and improvements.
-

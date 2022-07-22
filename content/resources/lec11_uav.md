@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec11_uav.pdf
 uid: e32c0083-d2a1-edea-5ee4-8ece63ec6bae
 ---
 This resource contains the definition, characteristics, classes, applications and levels of autonomous controls of UAVs; national airspace system; certificate of authorisation; access; dealing with uncertainty; and cross cutting themes.
-

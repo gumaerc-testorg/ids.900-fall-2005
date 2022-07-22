@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prometheus_kd.pdf
 uid: 5527457b-ab61-5426-ad21-a0b021c017f5
 ---
 This resource contains the response paper by Kieran Downes on the book Rescuing Prometheus.
-

@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: final_am.pdf
 uid: 29458f23-b9a8-e9ef-6748-1470730c741a
 ---
 This resource contains the information on the final paper of the course given by Aleksandra Mozdzanowska on the topic - What is the relationship between technology and social values.
-

@@ -9,6 +9,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ota_nuclear.pdf
 uid: fd4f1ea0-f326-5c10-4fd9-a9a42dfa0a26
 ---
 This resource contains information about the seven sides to the nuclear debate, the uncertain financial and economic future, alternative reactor systems, management of the nuclear enterprise, regulation of nuclear power, survival of nuclear industry in the United States and abroad, public attitudes toward nuclear power and policy options.
-

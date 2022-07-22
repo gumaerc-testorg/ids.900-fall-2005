@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: allison.pdf
 uid: d9dc77d3-97c6-8edd-9303-41f67276cd20
 ---
 This resource deals with two writing assignments- powerful dumb ideas about policy outcomes; and bureaucratic politics.
-

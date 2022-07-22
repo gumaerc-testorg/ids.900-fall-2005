@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5_assess.pdf
 uid: c7a3b607-a9e1-f1bf-2f5f-bc0fdac2325b
 ---
 This resource contains information about the history, types, purpose and methods of technology assessment as given in the course.
-

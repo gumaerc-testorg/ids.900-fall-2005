@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec2.pdf
 uid: 50d4d563-30e3-943d-a83a-34c61c690a16
 ---
 This resource contains the key aspects of SAGE air defence system, Atlas project, Boston's central artery tunnel, CA/T, Arpanet and history of systems engineering summary.
-

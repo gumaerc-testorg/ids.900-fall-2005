@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: techassess.pdf
 uid: 9c640b51-b555-351a-035b-d89b95b7ad30
 ---
 This resource contains information about the technology assessment assignment and the readings for this particular topic.
-

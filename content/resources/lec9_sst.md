@@ -7,6 +7,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec9_sst.pdf
 uid: a9bd3dfc-04b0-5455-f4bc-f4129afc5053
 ---
 This resource contains information about what is super sonic transport, challenges, technology issues, history, timelines, concorde, recent super sonic transport [rogrammes and projects, analysis and cross cutting themes.
-

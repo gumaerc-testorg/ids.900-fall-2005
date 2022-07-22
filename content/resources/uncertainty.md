@@ -8,6 +8,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 00c7c1cf-7b85-60dc-d105-51551c348acc
 ---
 This resource contains a framework for understanding uncertainty and its mitigation and exploitation
 in complex systems.
-

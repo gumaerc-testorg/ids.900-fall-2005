@@ -6,6 +6,7 @@ file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: columbia_sl.pdf
 uid: aeaaa836-fcfc-e158-61ca-9c11d3655734
 ---
 This resource contains information about Columbia accident investigation by Spencer L. Lewis.
-
