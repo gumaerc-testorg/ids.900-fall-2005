@@ -4,6 +4,7 @@ description: 'This resource contains information about the final paper by Dietri
   Falkenthal on the topic - Policy on Emerging Technology: Roles of Individuals and
   Organizations Case Study Analysis.'
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/61392cdda9402a1e52768da6cee9be2f_final_df.pdf
+file_size: 137452
 file_type: application/pdf
 learning_resource_types:
 - Assignments

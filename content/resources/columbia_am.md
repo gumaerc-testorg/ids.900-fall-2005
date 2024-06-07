@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the responses to Columbia accident investigation
   by Aleksandra Mozdzanowska.
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/a5ff20262d1bc8ef1ec290bf8b513f1e_columbia_am.pdf
+file_size: 15608
 file_type: application/pdf
 learning_resource_types:
 - Assignments
