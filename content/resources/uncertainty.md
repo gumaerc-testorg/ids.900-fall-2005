@@ -5,6 +5,7 @@ description: 'This resource contains a framework for understanding uncertainty a
 
   in complex systems.'
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/00c7c1cf7b8560dcd10551551c348acc_uncertainty.pdf
+file_size: 342207
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the response paper by Dietrich
   Falkenthal on the book Rescuing Prometheus.
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/8de610d1022b9cf0690b8dd2c9323355_prometheus_df.pdf
+file_size: 59519
 file_type: application/pdf
 learning_resource_types:
 - Assignments
