@@ -4,7 +4,7 @@ description: This resource contains information about ballistic missile defense 
   and their feasability, U.S. nuclear strategy, BMD and its capability, strategic
   balance, crisis stability, arms race stability, arms control issues, alternative
   future scenarios and R&D programmes.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/2b5b1713441520cf3b167f6b39f6b6a3_ota_missile.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/2b5b1713441520cf3b167f6b39f6b6a3_ota_missile.pdf
 file_size: 4797405
 file_type: application/pdf
 learning_resource_types:
