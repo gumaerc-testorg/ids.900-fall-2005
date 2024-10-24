@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the history, types, purpose
   and methods of technology assessment as given in the course.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c7a3b607a9e1f1bf2f5fbc0fdac2325b_lec5_assess.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c7a3b607a9e1f1bf2f5fbc0fdac2325b_lec5_assess.pdf
 file_size: 627170
 file_type: application/pdf
 learning_resource_types:
