@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the Columbia accident investigation
   by Christine Ng.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/7ac5eb98bff8c1f1deb12b920a5ec3a3_columbia_cn.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/7ac5eb98bff8c1f1deb12b920a5ec3a3_columbia_cn.pdf
 file_size: 24107
 file_type: application/pdf
 learning_resource_types:

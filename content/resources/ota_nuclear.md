@@ -5,7 +5,7 @@ description: This resource contains information about the seven sides to the nuc
   management of the nuclear enterprise, regulation of nuclear power, survival of nuclear
   industry in the United States and abroad, public attitudes toward nuclear power
   and policy options.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/fd4f1ea0f3265c104fd9a9a42dfa0a26_ota_nuclear.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/fd4f1ea0f3265c104fd9a9a42dfa0a26_ota_nuclear.pdf
 file_size: 7736824
 file_type: application/pdf
 learning_resource_types:
