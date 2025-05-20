@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about packet switching chronology,
   packet switching vs. citcuit switching, TCP/IP, nuclear war survivability, consequnces,
   overlooked consequences and improvements.
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/ee7500e73eb599566cc28e217f65fe41_lec7_packets.pdf
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/ee7500e73eb599566cc28e217f65fe41_lec7_packets.pdf
 file_size: 357774
 file_type: application/pdf
 learning_resource_types:
