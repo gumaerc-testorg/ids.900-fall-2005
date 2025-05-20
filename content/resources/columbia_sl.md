@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Columbia accident investigation
   by Spencer L. Lewis.
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/aeaaa836fcfce15861ca9c11d3655734_columbia_sl.pdf
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/aeaaa836fcfce15861ca9c11d3655734_columbia_sl.pdf
 file_size: 21594
 file_type: application/pdf
 learning_resource_types:

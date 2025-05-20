@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource deals with two writing assignments- powerful dumb ideas
   about policy outcomes; and bureaucratic politics.
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/d9dc77d397c68edd930341f67276cd20_allison.pdf
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/d9dc77d397c68edd930341f67276cd20_allison.pdf
 file_size: 9561
 file_type: application/pdf
 learning_resource_types:

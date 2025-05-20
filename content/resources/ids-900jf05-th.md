@@ -2,7 +2,7 @@
 content_type: resource
 description: The GPS (Global Positioning System) is one of the emerging technologies
   considered in this seminar. (Image courtesy of USGS.)
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/2445bbe19e630fe2ac1371f792137ab2_ids-900jf05-th.jpg
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/2445bbe19e630fe2ac1371f792137ab2_ids-900jf05-th.jpg
 file_size: 12768
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the definition, characteristics, classes, applications
   and levels of autonomous controls of UAVs; national airspace system; certificate
   of authorisation; access; dealing with uncertainty; and cross cutting themes.
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e32c0083d2a1edea5ee48ece63ec6bae_lec11_uav.pdf
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e32c0083d2a1edea5ee48ece63ec6bae_lec11_uav.pdf
 file_size: 2316320
 file_type: application/pdf
 learning_resource_types:
