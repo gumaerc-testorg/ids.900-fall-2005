@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the final paper by Christine
   Ng on the topic - Making the Leap - Opportunities and Risks of Emerging Technologies.
-file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/77fb65409aaec868e653d628c7325033_final_cn.pdf
+file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/77fb65409aaec868e653d628c7325033_final_cn.pdf
 file_size: 95175
 file_type: application/pdf
 learning_resource_types:
