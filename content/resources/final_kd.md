@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about the final paper by Kieran Downes
   on - Can we call it Failure? Digital Equipment Corporation and the minicomputer
   as an engineering success story.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/3fb51453e0fbd4768c46360f08832071_final_kd.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/3fb51453e0fbd4768c46360f08832071_final_kd.pdf
 file_size: 213145
 file_type: application/pdf
 learning_resource_types:
