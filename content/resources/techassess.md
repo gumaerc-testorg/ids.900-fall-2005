@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the technology assessment assignment
   and the readings for this particular topic.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/9c640b51b555351a035bd89b95b7ad30_techassess.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/9c640b51b555351a035bd89b95b7ad30_techassess.pdf
 file_size: 16874
 file_type: application/pdf
 learning_resource_types:
