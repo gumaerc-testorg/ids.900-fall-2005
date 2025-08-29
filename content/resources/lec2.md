@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the key aspects of SAGE air defence system, Atlas
   project, Boston's central artery tunnel, CA/T, Arpanet and history of systems engineering
   summary.
-file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/50d4d56330e3943da83a34c61c690a16_lec2.pdf
+file: /ol-ocw-studio-app/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/50d4d56330e3943da83a34c61c690a16_lec2.pdf
 file_size: 122393
 file_type: application/pdf
 learning_resource_types:
