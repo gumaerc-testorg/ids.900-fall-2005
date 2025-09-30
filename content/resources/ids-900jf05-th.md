@@ -7,7 +7,8 @@ file_size: 12768
 file_type: image/jpeg
 image_metadata:
   caption: The GPS (Global Positioning System) is one of the emerging technologies
-    considered in this seminar. (Image courtesy of [USGS](http://www.usgs.gov/).)
+    considered in this seminar. (Image courtesy of {{% resource_link "9e8affa6-47e9-4376-8982-e7fa0764d0a2"
+    "USGS" %}}.)
   credit: Image courtesy of USGS.
   image-alt: Diagram of global network of satellites around the earth.
 learning_resource_types: []
