@@ -71,7 +71,7 @@ The Engineering Mindset
 Analysis of the Columbia Disaster
 {{< tdclose >}}
 {{< tdopen >}}
-[The Columbia Accident Investigation Board Report](http://www.nasa.gov/columbia/home/CAIB_Vol1.html)
+{{% resource_link "c759fab2-fc35-4410-b12c-c4a93c228ba8" "The Columbia Accident Investigation Board Report" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +101,9 @@ Methods for Forecasting; Predictions for the Future; How have they Actually Work
 {{< tdopen >}}
 _U.S. Office of Technology Assessment Reports_  
   
-"Ballistic Missile Defense Technologies." September 1985. ([PDF - 5.0 MB](http://govinfo.library.unt.edu/ota/Ota_4/DATA/1985/8504.PDF))  
-"Computer-Based National Information Systems: Technology and Public Policy Issues." September 1981. ([PDF - 2.7 MB](http://govinfo.library.unt.edu/ota/Ota_5/DATA/1981/8109.PDF))  
-"Nuclear Power in an Age of Uncertainty." February 1984. ([PDF - 9.0 MB](http://govinfo.library.unt.edu/ota/Ota_4/DATA/1984/8421.PDF))  
+"Ballistic Missile Defense Technologies." September 1985. ({{% resource_link "363a764d-2a25-404e-9ef3-0de0538c6a24" "PDF - 5.0 MB" %}})  
+"Computer-Based National Information Systems: Technology and Public Policy Issues." September 1981. ({{% resource_link "318a9e04-2878-4ddf-a2fc-f3ad7d0c9158" "PDF - 2.7 MB" %}})  
+"Nuclear Power in an Age of Uncertainty." February 1984. ({{% resource_link "b5b29ba8-da0c-4694-9c83-01c82b454a47" "PDF - 9.0 MB" %}})  
   
 Cuhls, K., and T. Kuwahara. _Outlook for Japanese and German Future Technology: Comparing Japanese and German Technology Forecast Surveys_. Heidelberg, Germany: Physica-Verlag, 1994. ISBN: 9783790808001.
 {{< tdclose >}}
